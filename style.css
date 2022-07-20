@@ -1,0 +1,166 @@
+*.im {
+    float: right;
+    max-width: 100%;
+
+}
+
+.first {
+    border-radius: 15px;
+    margin: 80px;
+    display: flex;
+    background-color: black;
+    padding: 8px;
+    margin-top: 40px;
+}
+
+.t {
+    padding-top: 30px;
+    padding-left: 40px;
+    color: white;
+
+}
+
+.btn {
+
+
+    border-radius: 4px;
+    padding: 6px;
+    color: white;
+    background-color: orangered;
+
+}
+
+.s {
+    color: whitesmoke;
+}
+
+.st {
+    background-color: white;
+    padding: 12px;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.nd {
+    background-color: white;
+    padding-right: 63px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+    text-align: center;
+
+    margin: 12px;
+    text-align: center;
+}
+
+.rd {
+    background-color: white;
+    padding-right: 90px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+    background-color: orangered;
+    text-align: center;
+
+    margin: 12px;
+    text-align: center;
+}
+
+.three {
+
+    border-radius: 6px;
+    width: 13%;
+    background-color: black;
+
+    margin: 9px;
+    margin-right: 10px;
+    height: 30%;
+
+}
+
+.twoim {
+    margin: 10px;
+    width: 24%;
+    height: 19%;
+}
+
+.threeim {
+    margin: 10px;
+
+    width: 24%;
+    height: 19%;
+
+}
+
+.icone {
+    display: flex;
+}
+
+.i1 {
+    width: 15px;
+    height: 25px;
+    padding: 10px;
+}
+
+.i2 {
+    margin: 10px;
+
+    width: 15px;
+    height: 25px;
+    padding: 2px;
+}
+
+.emnei {
+    background-color: whitesmoke;
+    size: 5px;
+    margin: 10px;
+
+}
+
+.image {
+    border-radius: 15px;
+    
+    display: flex;
+
+    padding: 8px;
+ 
+    margin-bottom: 0%;
+    margin: 100px;
+
+   
+    
+
+ 
+}
+
+.ndsaleh {
+  
+    display: flex;
+    float: right;
+    margin-right: 100px;
+
+}
+.goal{
+    text-align: center;
+    color: white;
+}
+
+.color{
+    background-color:black ;
+   padding: 40px;
+}
+.hr{
+    width: 950px;
+   height: 1px;
+margin-left: auto;
+margin-right: auto;
+   border: none;
+   margin-top: 10px;
+   margin-bottom: 50px;
+background-color: whitesmoke;
+}
+.ektu{
+    color: whitesmoke;
+    text-align: center;
+   
+}
